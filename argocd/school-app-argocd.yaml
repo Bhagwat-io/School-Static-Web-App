@@ -9,7 +9,7 @@ spec:
   source:
     # GitHub Pages URL (Helm repository)
     repoURL: https://Bhagwat-io.github.io/School-Static-Web-App
-    chart: school-app
+    chart: school-chart
     # Deploy latest released chart version
     targetRevision: "*"  # it will deploy the latest version of the chart available in the helm repository
     helm:
