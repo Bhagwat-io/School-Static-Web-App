@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  school-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-02T04:42:53.010979961Z"
+    description: A Helm chart for Kubernetes
+    digest: 5fea2802cde5abb02690c404fd8acfc3d3127c8203ec8e6b34ebab52db4319b9
+    name: school-chart
+    type: application
+    urls:
+    - https://github.com/Bhagwat-io/School-Static-Web-App/releases/download/school-chart-0.1.2/school-chart-0.1.2.tgz
+    version: 0.1.2
+generated: "2026-03-02T04:42:53.010994559Z"
